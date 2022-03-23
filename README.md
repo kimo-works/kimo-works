@@ -14,7 +14,7 @@ You can subscribe this channel if you find it helpful.
 - 😄 Pronouns: ... HEHE
 - ⚡ Fun fact: ... I Love To Learn People Programming
 
-<img src = "https://github-readme-stats.vercel.app/api?username=kimo-works&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimo-works)](https://github.com/kimo-works/github-readme-stats)
 
+
+<img src = "https://github-readme-stats.vercel.app/api?username=kimo-works&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
