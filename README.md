@@ -5,7 +5,7 @@ My Youtube Channel Link: https://www.youtube.com/channel/UCbFh57x2Rd1d7MdFR3knd5
 You can subscribe this channel if you find it helpful.
 
 - 🔭 I’m currently working on ... HTML, CSS, JS & PHP
-- 👀 I’m interested in ... I like to do difficult things easy by Programming
+- 👀 I’m interested in ... doing difficult things easy by Programming
 - 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... PHP
 - 🤔 I’m looking for help with ...
