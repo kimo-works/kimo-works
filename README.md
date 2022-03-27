@@ -12,7 +12,7 @@ You can subscribe this channel if you find it helpful.
 - 💬 Ask me about ... HTML, CSS, JS, Bootstrap, SASS, PHP & Wordpress & LARAVEL ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... HEHE
-- ⚡ Fun fact: ... I Love To Learn People Programming
+- ⚡ Fun fact: ... I Love To Teach People Programming
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimo-works)](https://github.com/kimo-works/github-readme-stats)
 
